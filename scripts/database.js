@@ -99,97 +99,97 @@ const database = {
       id: 1,
       bandId: 1,
       venueId: 1,
-      timestamp: 1667625600
+      date: "08/05/23"
     },
     {
       id: 2,
       bandId: 2,
       venueId: 1,
-      timestamp: 1667625600
+      date: "08/05/23"
     },
     {
       id: 3,
       bandId: 3,
       venueId: 2,
-      timestamp: 1667625600
+      date: "08/05/23"
     },
     {
       id: 4,
       bandId: 1,
       venueId: 2,
-      timestamp: 1667625600
+      date: "08/05/23"
     },
     {
       id: 5,
       bandId: 2,
       venueId: 3,
-      timestamp: 1667625600
+      date: "08/05/23"
     },
     {
       id: 6,
       bandId: 3,
       venueId: 3,
-      timestamp: 1667625600
+      date: "08/05/23"
     },
     {
       id: 7,
       bandId: 4,
       venueId: 4,
-      timestamp: 1668230400
+      date: "08/14/23"
     },
     {
       id: 8,
       bandId: 5,
       venueId: 5,
-      timestamp: 1668230400
+      date: "08/14/23"
     },
     {
       id: 9,
       bandId: 6,
       venueId: 1,
-      timestamp: 1668230400
+      date: "08/14/23"
     },
     {
       id: 10,
       bandId: 4,
       venueId: 1, 
-      timestamp: 1668230400
+      date: "08/14/23"
     },
     {
       id: 11,
       bandId: 5,
       venueId: 4,
-      timestamp: 1668230400
+      date: "08/14/23"
     },
     {
       id: 12,
       bandId: 6,
       venueId: 5,
-      timestamp: 1668835200
+      date: "08/22/23"
     },
     {
       id: 13,
       bandId: 7,
       venueId: 4,
-      timestamp: 1668835200
+      date: "08/22/23"
     },
     {
       id: 14,
       bandId: 8,
       venueId: 5,
-      timestamp: 1675488000
+      date: "08/30/23"
     },
     {
       id: 15,
       bandId: 7,
       venueId: 2,
-      timestamp: 1669440000
+      date: "08/30/23"
     },
     {
       id: 16,
       bandId: 8,
       venueId: 3,
-      timestamp: 1670044800
+      date: "09/08/23"
     },
   ]
 }
