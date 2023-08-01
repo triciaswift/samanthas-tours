@@ -1,11 +1,13 @@
 import { VenueList } from "./venues.js";
 import { BandList } from "./bands.js";
+import { Bookings } from "./bookings.js";
 
 const mainContainer = document.querySelector("#container");
 
 const applicationHTML = `
 <article class="bookings">
   <h2>Bookings</h2>
+  ${Bookings()}
 </article>
 
 <article class="details">
